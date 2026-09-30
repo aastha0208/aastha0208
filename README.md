@@ -6,6 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasthasingh0208/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aastha0208)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aastha0208@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aastha0208)
+
 
 I am a product and technology leader who turns complex problems into clear product direction, practical workflows, and measurable outcomes. My experience spans product management, engineering, and quality leadership across enterprise SaaS, cybersecurity, analytics, and financial services, including at BeyondTrust.
 
