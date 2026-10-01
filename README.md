@@ -69,7 +69,7 @@ Explore the project → https://github.com/aastha0208/automation-layer-adviser
 ### Release Health Metrics
 **One trusted view of release health for go/no-go decisions**
 
-Gave senior leadership, from product owners to the VP of Engineering and the Release Review Committee, a one-click view of each monthly release, with drill-down to the failures and blockers behind it.
+Gave release stakeholders, from product managers and owners up to the VP of Engineering and Product and the Release Review Committee, a one-click view of each monthly release, with drill-down to the failures and blockers behind it.
 
 My product focus: aligning teams and leadership on what "pass rate" and "complete" mean, so certification-week decisions rested on one agreed set of numbers instead of competing ones.
 
