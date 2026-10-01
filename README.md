@@ -37,24 +37,6 @@ Jira · Confluence · Miro · Figma · Agile / SAFe
 
 ## 🚀 Featured Projects
 
-### Release Health Metrics
-**One trusted view of release health for go/no-go decisions**
-
-Gave senior leadership, from product owners to the VP of Engineering and the Release Review Committee, a one-click view of each monthly release, with drill-down to the failures and blockers behind it.
-
-My product focus: aligning teams and leadership on what "pass rate" and "complete" mean, so certification-week decisions rested on one agreed set of numbers instead of competing ones.
-
-Explore the project → https://github.com/aastha0208/release-health-metrics
-
-### Automation Layer Adviser
-**AI decision support for choosing the right automation layer**
-
-Helps engineering teams decide what to automate and at which layer, using ticket requirements and engineering guidelines to recommend an approach with a clear rationale.
-
-My product focus: reducing decision overhead, fitting into existing workflows, and keeping engineers in control of the final choice.
-
-Explore the project → https://github.com/aastha0208/automation-layer-adviser
-
 ### Prompt Eval Gate
 **Decision support for releasing AI prompt changes**
 
@@ -74,6 +56,24 @@ As part of the AI Evals for Engineers & PMs course, I analyzed customer conversa
 My product focus: balancing convenience with customer trust, defining boundaries for autonomous actions, and using observed failures to improve the support experience.
 
 Explore the project → https://github.com/aastha0208/cartwheel-support-agent
+
+### Automation Layer Adviser
+**AI decision support for choosing the right automation layer**
+
+Helps engineering teams decide what to automate and at which layer, using ticket requirements and engineering guidelines to recommend an approach with a clear rationale.
+
+My product focus: reducing decision overhead, fitting into existing workflows, and keeping engineers in control of the final choice.
+
+Explore the project → https://github.com/aastha0208/automation-layer-adviser
+
+### Release Health Metrics
+**One trusted view of release health for go/no-go decisions**
+
+Gave senior leadership, from product owners to the VP of Engineering and the Release Review Committee, a one-click view of each monthly release, with drill-down to the failures and blockers behind it.
+
+My product focus: aligning teams and leadership on what "pass rate" and "complete" mean, so certification-week decisions rested on one agreed set of numbers instead of competing ones.
+
+Explore the project → https://github.com/aastha0208/release-health-metrics
 
 ## 🧪 Learning Labs
 
