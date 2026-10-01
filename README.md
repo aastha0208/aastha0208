@@ -35,5 +35,34 @@ Python · TypeScript · SQL · Java · JavaScript · C# · GitHub Actions · CI/
 **Product Collaboration**
 Jira · Confluence · Miro · Figma · Agile / SAFe
 
+## 🚀 Featured Projects
 
+### Automation Layer Adviser
+**AI decision support for choosing the right automation layer**
+
+Helps engineering teams decide what to automate and at which layer, using ticket requirements and engineering guidelines to recommend an approach with a clear rationale.
+
+My product focus: reducing decision overhead, fitting into existing workflows, and keeping engineers in control of the final choice.
+
+Explore the project → https://github.com/aastha0208/automation-layer-adviser
+
+### Prompt Eval Gate
+**Decision support for releasing AI prompt changes**
+
+Helps teams assess whether a prompt change improves AI behavior and where it introduces regressions, providing evidence for release decisions.
+
+My product focus: defining what “better” means, weighing improvements against regressions, and making tradeoffs visible to decision-makers.
+
+Explore the project → https://github.com/aastha0208/prompt-eval-gate
+
+### Cartwheel Support Agent
+**A product case study in AI-assisted customer support**
+
+Explores how an AI agent can help shoppers with orders, returns, and refunds while navigating store policies and knowing when to escalate to a person.
+
+As part of the AI Evals for Engineers & PMs course, I analyzed customer conversations, identified failure patterns, and refined the agent’s instructions.
+
+My product focus: balancing convenience with customer trust, defining boundaries for autonomous actions, and using observed failures to improve the support experience.
+
+Explore the project → https://github.com/aastha0208/cartwheel-support-agent
 
