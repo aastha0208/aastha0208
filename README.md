@@ -10,9 +10,9 @@
 
 ## 🚀 **About Me**
 
-I am a product and technology leader who turns complex problems into clear product direction, practical workflows, and measurable outcomes. My experience spans product management, engineering, and quality leadership across enterprise SaaS, cybersecurity, analytics, and financial services, including at BeyondTrust.
+I am an AI Product Leader who turns complex problems into clear product direction, practical workflows, and measurable outcomes. My experience spans software engineering, technical leadership, and product management across enterprise SaaS, cybersecurity, analytics, financial services, and industrial automation domain, including at BeyondTrust.
 
-Here, I build and share AI applications, agent workflows, and evaluation systems. I am interested in full customer journey: understanding the problem, deciding what to build, validating how it behaves, and learning where it falls short.
+Here, I build and share AI applications, agentic workflows, and evaluation systems. I am interested in end-to-end customer journey: understanding the problem, forming hypotheses, exploring potential solutions, prototyping, deciding what to build, validating how it behaves, and learning where it falls short.
 
 Each project is a place to share my product thinking, the decisions behind the build, and what I learn along the way.
 
