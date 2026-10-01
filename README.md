@@ -56,7 +56,7 @@ My product focus: defining what “better” means, weighing improvements agains
 Explore the project → https://github.com/aastha0208/prompt-eval-gate
 
 ### Cartwheel Support Agent
-**A product case study in AI-assisted customer support**
+**A product case study in AI-assisted customer support for evaluating and improving AI agents**
 
 Explores how an AI agent can help shoppers with orders, returns, and refunds while navigating store policies and knowing when to escalate to a person.
 
