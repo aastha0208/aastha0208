@@ -30,12 +30,21 @@ Product strategy · Customer discovery · Roadmaps · Prioritization · Success 
 LLM evaluation · Evaluation harnesses · Error analysis · Prompt comparison · Regression detection · Human-in-the-loop workflows · MCP · LangChain
 
 **Engineering & Delivery**
-Python · TypeScript · SQL · Java · JavaScript · C# · GitHub Actions · CI/CD · Azure · Cypress
+Python · TypeScript · SQL · Java · JavaScript · C# · GitHub Actions · CI/CD · Azure
 
 **Product Collaboration**
 Jira · Confluence · Miro · Figma · Agile / SAFe
 
 ## 🚀 Featured Projects
+
+### Release Health Metrics
+**One trusted view of release health for go/no-go decisions**
+
+Gave senior leadership, from product owners to the VP of Engineering and the Release Review Committee, a one-click view of each monthly release, with drill-down to the failures and blockers behind it.
+
+My product focus: aligning teams and leadership on what "pass rate" and "complete" mean, so certification-week decisions rested on one agreed set of numbers instead of competing ones.
+
+Explore the project → https://github.com/aastha0208/release-health-metrics
 
 ### Automation Layer Adviser
 **AI decision support for choosing the right automation layer**
@@ -66,3 +75,10 @@ My product focus: balancing convenience with customer trust, defining boundaries
 
 Explore the project → https://github.com/aastha0208/cartwheel-support-agent
 
+## 🧪 Learning Labs
+
+Hands-on exercises I use to stay close to the technology I make product decisions about:
+
+- [LangChain Agents Lab](https://github.com/aastha0208/langchain-agents-lab): agents, tools, memory and model-routing middleware, with notes on where each fits in a product
+- [MCP Research Assistant Lab](https://github.com/aastha0208/mcp-research-assistant-lab): an MCP server and client, and what the protocol means for governing what AI can reach
+- [Programming Concepts Across Languages](https://github.com/aastha0208/programming-concepts-crosslanguage-lab): 12 core concepts in five languages, every example tested automatically
