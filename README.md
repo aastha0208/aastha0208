@@ -16,7 +16,7 @@ Here, I build and share AI applications, agent workflows, and evaluation systems
 
 Each project is a place to share my product thinking, the decisions behind the build, and what I learn along the way.
 
-## 🔭 **Currently exploring**
+## 🔭 **Current Focus**
 - AI agents that support real decisions and everyday workflows
 - LLM evaluation, error analysis, and human feedback loops
 - Spec-driven development that connects user needs to implementation
